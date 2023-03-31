@@ -1,6 +1,6 @@
 Name:		texlive-uwa-pif
 Version:	64491
-Release:	1
+Release:	2
 Summary:	A Participant Information Form (PIF) for a human research protocol at the University of Western Australia
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/uwa-pif
